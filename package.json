@@ -1,8 +1,8 @@
 {
   "name": "vulkan-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "UONET+ Vulkan Mobile API Wrapper in TypeScript",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "neoney",
   "license": "MIT",
   "private": false,
