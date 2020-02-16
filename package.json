@@ -1,0 +1,22 @@
+{
+  "name": "vulkan-js",
+  "version": "0.1.0",
+  "description": "UONET+ Vulkan Mobile API Wrapper in TypeScript",
+  "main": "index.js",
+  "author": "neoney",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node-forge": "^0.9.2",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@wulkanowy/uonet-request-signer-node": "^0.1.1",
+    "axios": "^0.19.2",
+    "node-forge": "^0.9.1",
+    "uuidv4": "^6.0.2"
+  }
+}
